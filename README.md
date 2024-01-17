@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shahal shan</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate and aspiring full-stack-web-developer from India , React | .Net </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaannn7&label=Profile%20views&color=0e75b6&style=flat" alt="shaannn7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shaaaan70" target="blank"><img src="https://img.shields.io/twitter/follow/shaaaan70?logo=twitter&style=for-the-badge" alt="shaaaan70" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce website](https://shaannn7.github.io/UrbanLoom/)
+- 🔭 I’m currently working on [E-commerce website](https://shaannn7.github.io/UrbanLoom/) 
 
-- 👯 I’m looking to collaborate on **Professional developers**
+- 👨‍💻 All of my projects are available at [https://shaannn7.github.io/Shaann/]
 
-- 👨‍💻 All of my projects are available at [https://shaannn7.github.io/Shaann/](https://shaannn7.github.io/Shaann/)
+- 💬 Ask me about  HTML , CSS , BOOTSTRAP , JS , REACT , REDUX  , Tech , Computer Languages
 
-- 💬 Ask me about **react , tech , computer languages**
-
-- 📫 How to reach me **Shanuparambat10@gmail.com**
+- 📫 How to reach me  [Shanuparambat10@gmail.com]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,8 +33,6 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png" alt="redux" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://clipground.com/images/asp-net-logo-png-1.png" alt="redux" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaannn7&show_icons=true&locale=en&layout=compact" alt="shaannn7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaannn7&show_icons=true&locale=en" alt="shaannn7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaannn7&" alt="shaannn7" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaannn7&show_icons=true&locale=en&layout=compact" alt="shaannn7" /></p><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shaannn7&show_icons=true&locale=en" alt="shaannn7" /></p><br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shaannn7&" alt="shaannn7" /></p>
