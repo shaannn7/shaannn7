@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shaannn7.github.io/Shaann/]
 
-- 💬 Ask me about  HTML , CSS , BOOTSTRAP , JS , REACT , REDUX  , Tech , Computer Languages
+- 💬 Ask me about  HTML , CSS , BOOTSTRAP , JS , REACT , REDUX  , C# , .Net , ASP.Net , SQL SERVER , ADO.Net , ENTITY FRAMEWORK , Tech , Computer Languages
 
 - 📫 How to reach me  [Shanuparambat10@gmail.com]
 
